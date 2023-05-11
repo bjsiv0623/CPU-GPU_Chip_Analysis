@@ -4,10 +4,12 @@
 |           INFORMATION             |
 \***********************************/
 
-This document is to detail the order in which the python files included in this .ZIP file
+This document is to detail the order in which the Jupyter Notebook files included in this repository
 should be run.
 
 1. splitData.ipynb
 2. cleanCPUs.ipynb
 3. cleanGPUs.ipynb
 4. removeOutliers.ipynb
+5. binCPUs.ipynb
+6. binGPUs.ipynb

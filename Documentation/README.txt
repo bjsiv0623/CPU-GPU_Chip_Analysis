@@ -11,10 +11,9 @@ Intro to Data Science - COMSC.225.01
 * FINAL PROJECT *
 
 I will be performing an analysis on a CPU/ GPU dataset I found on kaggle.com that contains
-information on CPU and GPU chipsets. The goal is to analyze the trends in design and manufacturing
-changes that have occured over the years and how these changes differ between the different companies, 
-as well as to see if it is possible to determine through this raw data which manufacturer dominates the
-market in CPUs and GPUs respectivley.
+information on CPU and GPU chipsets. The goal is to analyze the differences between different
+manufacturers chips and potentially determine through the raw data, which manufacturer makes the best
+CPUs and which makes the best GPUs.
 
 
 The Metrics used to determine the hardwares performace are as follows:
