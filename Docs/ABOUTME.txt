@@ -11,8 +11,10 @@ Intro to Data Science - COMSC.225.01
 * FINAL PROJECT *
 
 I will be performing an analysis on a CPU/ GPU dataset I found on kaggle.com that contains
-information on Intel and AMD CPU and GPU chipsets. The goal is to analyze the trends in design and manufacturing
-changes that have occured over the years and how these changes differ between the two companies.
+information on CPU and GPU chipsets. The goal is to analyze the trends in design and manufacturing
+changes that have occured over the years and how these changes differ between the different companies, 
+as well as to see if it is possible to determine through this raw data which manufacturer dominates the
+market in CPUs and GPUs respectivley.
 
 
 The Metrics used to determine the hardwares performace are as follows:
@@ -38,9 +40,8 @@ FOR GPUs:
     - FP32 GFLOPS
     - FP64 GFLOPS
 
-The other columns, Index, Type and Vendor will be used
-to identify the product and will not be used in the quantitative analysis, but instead will be used to Index
-and identify the two different companies and types of hardware.
+Other columns containing non-relevant information for the quantitative analysis will be dropped.
+The only qualitative information in the table will be hardware type and manufacturer.
 
 #----------------------------------------------------#
         RESOURCES AND INFORMATION ON CHIP SPECS
