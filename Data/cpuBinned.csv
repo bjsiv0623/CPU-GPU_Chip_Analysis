@@ -1,0 +1,1323 @@
+,Type,Process_Size,TDP,Die_Size,Transistors,Freq,Vendor,ProcessSize,TransistorSize,DieSize
+0,CPU,65.0,45.0,77.0,122.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1,CPU,14.0,35.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+2,CPU,22.0,80.0,160.0,1400.0,1800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+3,CPU,22.0,95.0,160.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+4,CPU,65.0,125.0,285.0,450.0,2400,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+5,CPU,65.0,130.0,140.0,376.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+6,CPU,90.0,89.0,156.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+7,CPU,130.0,62.0,80.0,37.0,1992,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+8,CPU,22.0,35.0,160.0,1480.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+9,CPU,65.0,95.0,285.0,450.0,2300,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+10,CPU,90.0,84.0,109.0,125.0,2660,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+11,CPU,22.0,80.0,160.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+12,CPU,90.0,110.0,199.0,233.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+13,CPU,45.0,130.0,263.0,731.0,3333,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+14,CPU,90.0,67.0,115.0,105.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+15,CPU,90.0,130.0,206.0,169.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+16,CPU,14.0,170.0,213.0,4800.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+17,CPU,90.0,115.0,109.0,125.0,3400,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+18,CPU,45.0,45.0,117.0,234.0,2700,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+19,CPU,14.0,170.0,213.0,4800.0,2000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+20,CPU,45.0,4.0,26.0,47.0,1600,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+21,CPU,22.0,130.0,160.0,1400.0,3000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+22,CPU,65.0,95.0,285.0,450.0,2300,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+23,CPU,32.0,35.0,149.0,624.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+24,CPU,32.0,65.0,228.0,1178.0,2400,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+25,CPU,90.0,25.0,125.0,114.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+26,CPU,45.0,65.0,107.0,820.0,2833,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+27,CPU,22.0,15.0,118.0,1300.0,1800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+28,CPU,14.0,65.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+29,CPU,32.0,35.0,228.0,1178.0,1900,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+30,CPU,130.0,97.0,237.0,286.0,3200,Intel,Slightly Compact(90-180nm),Approaching Subatomic(37-125nm),Most useable space
+31,CPU,65.0,130.0,143.0,582.0,2666,Intel,Compact(45-90nm),Microminiature(125-410nm),Some useable space
+32,CPU,32.0,65.0,228.0,1178.0,2100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+33,CPU,90.0,89.0,220.0,227.0,2800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+34,CPU,45.0,95.0,169.0,300.0,3000,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+35,CPU,7.0,155.0,74.0,3800.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+36,CPU,7.0,45.0,156.0,9800.0,3300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+37,CPU,7.0,180.0,74.0,3800.0,2500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+38,CPU,90.0,62.0,230.0,227.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+39,CPU,130.0,32.0,80.0,44.0,1400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+40,CPU,130.0,82.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+41,CPU,22.0,80.0,160.0,1400.0,2100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+42,CPU,90.0,67.0,156.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+43,CPU,32.0,4.0,66.0,176.0,1600,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+44,CPU,22.0,15.0,118.0,1400.0,1600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+45,CPU,90.0,89.0,220.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+46,CPU,22.0,60.0,160.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+47,CPU,12.0,35.0,210.0,4940.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+48,CPU,7.0,25.0,156.0,9800.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+49,CPU,65.0,27.0,90.0,151.0,1866,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+50,CPU,32.0,65.0,246.0,1178.0,3400,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+51,CPU,65.0,31.0,90.0,151.0,2166,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+52,CPU,14.0,51.0,150.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+53,CPU,130.0,68.0,80.0,37.0,2133,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+54,CPU,130.0,89.0,193.0,69.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+55,CPU,65.0,95.0,140.0,376.0,3400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+56,CPU,32.0,35.0,131.0,504.0,1500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+57,CPU,130.0,73.0,146.0,55.0,2700,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+58,CPU,90.0,62.0,230.0,227.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+59,CPU,90.0,35.0,103.0,81.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+60,CPU,22.0,35.0,160.0,1480.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+61,CPU,32.0,45.0,228.0,1178.0,1600,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+62,CPU,32.0,35.0,81.0,382.0,2400,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+63,CPU,22.0,54.0,177.0,1400.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+64,CPU,22.0,15.0,118.0,1400.0,1700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+65,CPU,65.0,65.0,111.0,167.0,2133,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+66,CPU,180.0,68.0,150.0,37.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+67,CPU,130.0,31.0,80.0,44.0,1400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+68,CPU,65.0,95.0,285.0,450.0,2200,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+69,CPU,130.0,68.0,80.0,37.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+70,CPU,90.0,88.0,112.0,125.0,3200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+71,CPU,65.0,65.0,77.0,105.0,2400,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+72,CPU,7.0,25.0,156.0,9800.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+73,CPU,12.0,250.0,213.0,19200.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+74,CPU,45.0,7.0,66.0,123.0,1834,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+75,CPU,12.0,65.0,192.0,4800.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+76,CPU,65.0,65.0,285.0,450.0,2100,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+77,CPU,32.0,65.0,228.0,1178.0,2800,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+78,CPU,180.0,67.0,217.0,42.0,1800,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+79,CPU,90.0,84.0,109.0,125.0,2660,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+80,CPU,22.0,45.0,160.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+81,CPU,130.0,110.0,146.0,55.0,2527,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+82,CPU,130.0,60.0,131.0,55.0,2400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+83,CPU,90.0,22.0,125.0,114.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+84,CPU,45.0,2.0,65.0,140.0,1900,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+85,CPU,22.0,15.0,118.0,1400.0,1600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+86,CPU,45.0,65.0,82.0,228.0,3000,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+87,CPU,22.0,35.0,177.0,1400.0,2700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+88,CPU,28.0,35.0,246.0,1178.0,3000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+89,CPU,130.0,32.0,131.0,55.0,2000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+90,CPU,32.0,80.0,239.0,1170.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+91,CPU,32.0,115.0,316.0,2400.0,2200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+92,CPU,12.0,15.0,210.0,4940.0,2600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+93,CPU,14.0,72.0,126.0,1400.0,3400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+94,CPU,130.0,32.0,144.0,69.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+95,CPU,14.0,45.0,210.0,4950.0,3350,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+96,CPU,45.0,45.0,169.0,300.0,2500,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+97,CPU,32.0,95.0,216.0,1160.0,2900,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+98,CPU,32.0,125.0,315.0,1200.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+99,CPU,32.0,140.0,315.0,2400.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+100,CPU,32.0,17.0,131.0,504.0,1400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+101,CPU,45.0,125.0,346.0,904.0,3300,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+102,CPU,22.0,54.0,177.0,1400.0,3400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+103,CPU,32.0,130.0,435.0,2270.0,3000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+104,CPU,22.0,35.0,160.0,1480.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+105,CPU,90.0,84.0,109.0,125.0,2933,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+106,CPU,130.0,82.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+107,CPU,90.0,135.0,213.0,200.0,2800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+108,CPU,45.0,65.0,82.0,228.0,3067,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+109,CPU,45.0,95.0,258.0,758.0,2600,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+110,CPU,130.0,62.0,80.0,37.0,1750,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+111,CPU,22.0,54.0,177.0,1400.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+112,CPU,14.0,180.0,213.0,4800.0,2200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+113,CPU,22.0,140.0,160.0,1400.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+114,CPU,65.0,125.0,285.0,450.0,2500,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+115,CPU,22.0,57.0,177.0,1400.0,3100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+116,CPU,65.0,105.0,143.0,582.0,2400,Intel,Compact(45-90nm),Microminiature(125-410nm),Some useable space
+117,CPU,90.0,125.0,220.0,243.0,2800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+118,CPU,65.0,95.0,285.0,450.0,2700,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+119,CPU,22.0,45.0,160.0,1400.0,2700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+120,CPU,22.0,35.0,177.0,1400.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+121,CPU,45.0,9.0,87.0,176.0,1667,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+122,CPU,65.0,35.0,143.0,293.0,2000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+123,CPU,22.0,140.0,356.0,2600.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+124,CPU,45.0,65.0,82.0,228.0,2600,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+125,CPU,32.0,65.0,131.0,504.0,2700,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+126,CPU,90.0,84.0,109.0,125.0,3000,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+127,CPU,130.0,82.0,131.0,55.0,3200,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+128,CPU,45.0,45.0,169.0,300.0,2400,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+129,CPU,90.0,62.0,103.0,81.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+130,CPU,130.0,92.0,146.0,125.0,2000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+131,CPU,45.0,95.0,346.0,904.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+132,CPU,32.0,65.0,246.0,1178.0,3000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+133,CPU,65.0,95.0,285.0,450.0,2300,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+134,CPU,22.0,15.0,118.0,1400.0,1400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+135,CPU,32.0,35.0,131.0,504.0,1700,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+136,CPU,32.0,130.0,239.0,1170.0,3200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+137,CPU,22.0,37.0,118.0,1300.0,3000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+138,CPU,32.0,140.0,316.0,2400.0,2600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+139,CPU,65.0,86.0,81.0,188.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+140,CPU,32.0,40.0,239.0,1170.0,1866,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+141,CPU,45.0,95.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+142,CPU,32.0,80.0,239.0,1170.0,1600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+143,CPU,32.0,17.0,131.0,504.0,1500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+144,CPU,32.0,45.0,228.0,1178.0,2000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+145,CPU,14.0,72.0,126.0,1400.0,3400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+146,CPU,45.0,95.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+147,CPU,45.0,65.0,117.0,410.0,3000,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+148,CPU,130.0,89.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+149,CPU,65.0,65.0,285.0,450.0,2000,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+150,CPU,32.0,35.0,131.0,504.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+151,CPU,45.0,95.0,169.0,300.0,2900,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+152,CPU,32.0,35.0,131.0,504.0,1600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+153,CPU,28.0,35.0,246.0,1178.0,3100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+154,CPU,65.0,65.0,143.0,291.0,2667,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+155,CPU,32.0,130.0,239.0,1170.0,3466,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+156,CPU,65.0,65.0,111.0,167.0,1800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+157,CPU,130.0,70.0,131.0,55.0,2800,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+158,CPU,14.0,95.0,192.0,4800.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+159,CPU,32.0,100.0,228.0,1178.0,2600,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+160,CPU,14.0,15.0,210.0,4950.0,2000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+161,CPU,90.0,84.0,135.0,169.0,2800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+162,CPU,90.0,45.0,3.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+163,CPU,65.0,27.0,90.0,151.0,1500,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+164,CPU,130.0,89.0,144.0,69.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+165,CPU,90.0,135.0,213.0,200.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+166,CPU,130.0,110.0,146.0,55.0,2793,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+167,CPU,45.0,80.0,258.0,758.0,3200,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+168,CPU,22.0,54.0,177.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+169,CPU,7.0,180.0,74.0,3800.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+170,CPU,180.0,69.0,217.0,42.0,1900,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+171,CPU,32.0,140.0,316.0,2400.0,2700,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+172,CPU,32.0,95.0,315.0,1200.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+173,CPU,32.0,65.0,228.0,1178.0,2700,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+174,CPU,90.0,62.0,103.0,81.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+175,CPU,22.0,17.0,118.0,1400.0,1800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+176,CPU,45.0,95.0,82.0,456.0,2700,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+177,CPU,32.0,130.0,513.0,2600.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+178,CPU,90.0,65.0,220.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+179,CPU,32.0,95.0,315.0,1200.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+180,CPU,45.0,130.0,263.0,731.0,3200,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+181,CPU,65.0,45.0,126.0,154.0,2300,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+182,CPU,45.0,125.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+183,CPU,90.0,62.0,84.0,63.0,1400,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+184,CPU,90.0,62.0,84.0,63.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+185,CPU,130.0,89.0,193.0,106.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+186,CPU,90.0,135.0,213.0,200.0,2833,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+187,CPU,32.0,45.0,216.0,1160.0,2500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+188,CPU,130.0,66.0,131.0,55.0,2400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+189,CPU,7.0,25.0,156.0,9800.0,1800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+190,CPU,32.0,65.0,315.0,1200.0,2600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+191,CPU,65.0,95.0,285.0,450.0,2400,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+192,CPU,14.0,65.0,192.0,4800.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+193,CPU,90.0,110.0,199.0,233.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+194,CPU,32.0,35.0,246.0,1303.0,2500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+195,CPU,32.0,73.0,81.0,382.0,3466,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+196,CPU,22.0,47.0,264.0,1400.0,2100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+197,CPU,65.0,130.0,140.0,376.0,3200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+198,CPU,90.0,25.0,125.0,114.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+199,CPU,22.0,37.0,118.0,1400.0,2600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+200,CPU,22.0,45.0,160.0,1480.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+201,CPU,32.0,115.0,315.0,2400.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+202,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+203,CPU,90.0,110.0,109.0,125.0,2400,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+204,CPU,22.0,115.0,160.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+205,CPU,90.0,21.0,84.0,140.0,1600,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+206,CPU,32.0,35.0,228.0,1178.0,2000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+207,CPU,130.0,68.0,131.0,55.0,2800,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+208,CPU,45.0,45.0,117.0,410.0,3000,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+209,CPU,65.0,89.0,126.0,154.0,3100,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+210,CPU,90.0,45.0,230.0,227.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+211,CPU,130.0,73.0,146.0,55.0,2400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+212,CPU,7.0,120.0,74.0,3800.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+213,CPU,45.0,65.0,117.0,410.0,2800,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+214,CPU,32.0,95.0,315.0,1200.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+215,CPU,45.0,95.0,81.0,456.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+216,CPU,22.0,165.0,160.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+217,CPU,32.0,35.0,131.0,504.0,1800,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+218,CPU,14.0,51.0,150.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+219,CPU,32.0,65.0,131.0,504.0,2900,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+220,CPU,7.0,225.0,74.0,3800.0,2250,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+221,CPU,22.0,47.0,177.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+222,CPU,45.0,65.0,107.0,410.0,3333,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+223,CPU,45.0,125.0,346.0,904.0,3200,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+224,CPU,65.0,150.0,435.0,1328.0,3200,Intel,Compact(45-90nm),Microscopic(410-1178nm),Most useable space
+225,CPU,22.0,35.0,177.0,1400.0,3100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+226,CPU,45.0,45.0,117.0,234.0,2600,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+227,CPU,45.0,7.0,66.0,123.0,1834,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+228,CPU,65.0,15.0,90.0,151.0,1833,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+229,CPU,130.0,62.0,80.0,37.0,1583,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+230,CPU,32.0,65.0,246.0,1178.0,3400,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+231,CPU,45.0,2.0,26.0,47.0,1600,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+232,CPU,45.0,130.0,263.0,731.0,3333,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+233,CPU,90.0,62.0,183.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+234,CPU,90.0,65.0,220.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+235,CPU,32.0,35.0,149.0,624.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+236,CPU,130.0,45.0,101.0,63.0,1667,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+237,CPU,130.0,21.0,131.0,55.0,1400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+238,CPU,32.0,17.0,149.0,624.0,1500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+239,CPU,45.0,13.0,66.0,176.0,1667,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+240,CPU,65.0,31.0,90.0,151.0,1733,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+241,CPU,45.0,7.0,66.0,123.0,1667,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+242,CPU,90.0,130.0,206.0,169.0,3200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+243,CPU,22.0,80.0,160.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+244,CPU,65.0,65.0,111.0,167.0,2400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+245,CPU,22.0,140.0,160.0,1400.0,3200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+246,CPU,32.0,35.0,81.0,384.0,2677,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+247,CPU,45.0,95.0,258.0,758.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+248,CPU,130.0,89.0,144.0,69.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+249,CPU,130.0,89.0,193.0,105.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+250,CPU,130.0,97.0,237.0,286.0,3066,Intel,Slightly Compact(90-180nm),Approaching Subatomic(37-125nm),Most useable space
+251,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+252,CPU,130.0,89.0,193.0,105.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+253,CPU,45.0,95.0,169.0,300.0,3300,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+254,CPU,130.0,110.0,146.0,55.0,2000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+255,CPU,12.0,65.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+256,CPU,130.0,73.0,146.0,55.0,2300,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+257,CPU,45.0,45.0,117.0,234.0,2900,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+258,CPU,65.0,35.0,143.0,293.0,2333,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+259,CPU,32.0,150.0,435.0,2270.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+260,CPU,130.0,62.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+261,CPU,45.0,115.0,346.0,1800.0,1900,AMD,Highly Compact(32-45nm),Microscopic(410-1178nm),Most useable space
+262,CPU,130.0,68.0,101.0,63.0,2083,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+263,CPU,22.0,65.0,160.0,1400.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+264,CPU,90.0,125.0,235.0,227.0,3000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+265,CPU,45.0,3.0,26.0,47.0,1667,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+266,CPU,90.0,35.0,125.0,114.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+267,CPU,130.0,73.0,146.0,55.0,2800,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+268,CPU,32.0,35.0,131.0,504.0,2300,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+269,CPU,45.0,95.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+270,CPU,14.0,65.0,192.0,4800.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+271,CPU,90.0,21.0,84.0,140.0,1500,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+272,CPU,90.0,130.0,206.0,169.0,3200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+273,CPU,65.0,45.0,126.0,154.0,2100,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+274,CPU,22.0,65.0,177.0,1400.0,3100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+275,CPU,12.0,15.0,210.0,4940.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+276,CPU,32.0,95.0,216.0,1160.0,3500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+277,CPU,130.0,68.0,80.0,63.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+278,CPU,14.0,170.0,213.0,4800.0,2000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+279,CPU,65.0,150.0,435.0,1328.0,3400,Intel,Compact(45-90nm),Microscopic(410-1178nm),Most useable space
+280,CPU,22.0,95.0,160.0,1400.0,2600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+281,CPU,130.0,89.0,217.0,55.0,2000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+282,CPU,45.0,65.0,258.0,758.0,2500,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+283,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+284,CPU,130.0,68.0,101.0,63.0,2100,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+285,CPU,45.0,65.0,258.0,758.0,2400,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+286,CPU,130.0,82.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+287,CPU,130.0,25.0,144.0,69.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+288,CPU,180.0,67.0,217.0,42.0,1800,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+289,CPU,65.0,95.0,435.0,1328.0,2600,Intel,Compact(45-90nm),Microscopic(410-1178nm),Most useable space
+290,CPU,32.0,95.0,315.0,1200.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+291,CPU,32.0,10.0,66.0,176.0,1867,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+292,CPU,14.0,51.0,150.0,1400.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+293,CPU,90.0,125.0,220.0,227.0,3000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+294,CPU,65.0,65.0,143.0,291.0,2400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+295,CPU,7.0,120.0,74.0,3800.0,2600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+296,CPU,65.0,45.0,77.0,122.0,2800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+297,CPU,130.0,89.0,144.0,69.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+298,CPU,90.0,21.0,84.0,140.0,2100,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+299,CPU,32.0,35.0,81.0,382.0,2267,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+300,CPU,65.0,95.0,285.0,450.0,2100,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+301,CPU,14.0,180.0,213.0,9600.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+302,CPU,130.0,92.0,146.0,55.0,2400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+303,CPU,14.0,180.0,213.0,4800.0,2000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+304,CPU,130.0,45.0,101.0,63.0,1533,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+305,CPU,32.0,65.0,131.0,504.0,3100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+306,CPU,32.0,35.0,228.0,1178.0,1400,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+307,CPU,14.0,180.0,213.0,4800.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+308,CPU,12.0,15.0,210.0,4940.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+309,CPU,90.0,89.0,220.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+310,CPU,90.0,89.0,220.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+311,CPU,65.0,86.0,81.0,188.0,3200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+312,CPU,45.0,65.0,117.0,410.0,3200,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+313,CPU,90.0,84.0,109.0,125.0,3060,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+314,CPU,130.0,82.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+315,CPU,65.0,65.0,126.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+316,CPU,130.0,30.0,131.0,55.0,1600,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+317,CPU,90.0,27.0,84.0,140.0,2260,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+318,CPU,32.0,100.0,228.0,1178.0,2900,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+319,CPU,32.0,35.0,131.0,504.0,2100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+320,CPU,130.0,30.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+321,CPU,32.0,65.0,315.0,1200.0,2600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+322,CPU,32.0,35.0,81.0,384.0,2800,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+323,CPU,22.0,80.0,160.0,1400.0,1800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+324,CPU,32.0,65.0,131.0,504.0,2800,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+325,CPU,32.0,80.0,216.0,1160.0,3200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+326,CPU,65.0,65.0,77.0,105.0,1800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+327,CPU,32.0,17.0,131.0,504.0,1600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+328,CPU,45.0,95.0,169.0,300.0,3000,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+329,CPU,45.0,125.0,346.0,904.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+330,CPU,14.0,65.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+331,CPU,130.0,45.0,101.0,63.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+332,CPU,130.0,62.0,101.0,63.0,1833,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+333,CPU,32.0,95.0,315.0,1200.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+334,CPU,65.0,45.0,126.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+335,CPU,22.0,88.0,177.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+336,CPU,22.0,47.0,264.0,1400.0,1600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+337,CPU,14.0,170.0,213.0,4800.0,2200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+338,CPU,14.0,180.0,213.0,4800.0,2000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+339,CPU,22.0,84.0,177.0,1400.0,3100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+340,CPU,22.0,54.0,177.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+341,CPU,32.0,130.0,513.0,2600.0,2276,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+342,CPU,65.0,79.0,285.0,463.0,2000,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+343,CPU,130.0,89.0,217.0,55.0,3066,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+344,CPU,90.0,62.0,84.0,63.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+345,CPU,90.0,62.0,103.0,81.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+346,CPU,130.0,82.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+347,CPU,14.0,35.0,148.0,4800.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+348,CPU,65.0,95.0,285.0,450.0,2500,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+349,CPU,130.0,62.0,80.0,37.0,1500,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+350,CPU,180.0,69.0,217.0,42.0,1900,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+351,CPU,65.0,95.0,285.0,450.0,2300,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+352,CPU,130.0,51.0,80.0,37.0,1533,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+353,CPU,32.0,35.0,131.0,504.0,2500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+354,CPU,130.0,68.0,101.0,63.0,1833,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+355,CPU,32.0,35.0,81.0,384.0,2000,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+356,CPU,32.0,73.0,81.0,382.0,2266,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+357,CPU,90.0,27.0,84.0,140.0,2000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+358,CPU,32.0,45.0,315.0,1200.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+359,CPU,90.0,67.0,83.0,69.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+360,CPU,90.0,135.0,213.0,200.0,2800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+361,CPU,32.0,35.0,246.0,1178.0,2100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+362,CPU,130.0,35.0,131.0,55.0,2500,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+363,CPU,7.0,225.0,74.0,3800.0,2900,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+364,CPU,90.0,62.0,183.0,154.0,1800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+365,CPU,130.0,32.0,131.0,55.0,1900,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+366,CPU,65.0,65.0,126.0,154.0,1900,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+367,CPU,7.0,180.0,74.0,3800.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+368,CPU,45.0,95.0,296.0,774.0,3066,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+369,CPU,45.0,35.0,107.0,410.0,2300,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+370,CPU,32.0,73.0,81.0,382.0,3200,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+371,CPU,130.0,85.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+372,CPU,90.0,115.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+373,CPU,7.0,280.0,74.0,3800.0,2600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+374,CPU,45.0,80.0,258.0,758.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+375,CPU,90.0,45.0,3.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+376,CPU,130.0,89.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+377,CPU,32.0,35.0,149.0,624.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+378,CPU,22.0,84.0,177.0,1400.0,3400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+379,CPU,45.0,95.0,169.0,300.0,3200,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+380,CPU,32.0,95.0,216.0,1160.0,3200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+381,CPU,90.0,125.0,235.0,227.0,3200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+382,CPU,22.0,115.0,160.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+383,CPU,65.0,95.0,285.0,450.0,2800,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+384,CPU,90.0,62.0,84.0,63.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+385,CPU,7.0,200.0,74.0,3800.0,2000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+386,CPU,45.0,65.0,104.0,410.0,3000,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+387,CPU,45.0,60.0,263.0,731.0,2133,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+388,CPU,130.0,89.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+389,CPU,22.0,35.0,177.0,1400.0,3000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+390,CPU,32.0,95.0,315.0,1200.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+391,CPU,14.0,180.0,213.0,9600.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+392,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+393,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+394,CPU,45.0,2.0,26.0,47.0,2133,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+395,CPU,32.0,65.0,131.0,504.0,2800,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+396,CPU,45.0,95.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+397,CPU,32.0,35.0,315.0,1200.0,2200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+398,CPU,32.0,65.0,131.0,504.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+399,CPU,14.0,65.0,192.0,4800.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+400,CPU,45.0,95.0,346.0,904.0,2900,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+401,CPU,45.0,65.0,82.0,228.0,2500,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+402,CPU,130.0,89.0,193.0,106.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+403,CPU,65.0,65.0,285.0,450.0,1800,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+404,CPU,90.0,27.0,84.0,140.0,2130,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+405,CPU,45.0,95.0,82.0,456.0,2333,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+406,CPU,90.0,67.0,84.0,69.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+407,CPU,45.0,65.0,258.0,758.0,2600,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+408,CPU,45.0,10.0,66.0,123.0,1834,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+409,CPU,65.0,31.0,90.0,151.0,1826,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+410,CPU,130.0,26.0,131.0,55.0,1500,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+411,CPU,130.0,89.0,217.0,55.0,2660,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+412,CPU,90.0,73.0,109.0,125.0,2530,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+413,CPU,65.0,65.0,77.0,105.0,2000,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+414,CPU,32.0,45.0,228.0,1178.0,1800,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+415,CPU,45.0,95.0,258.0,758.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+416,CPU,45.0,2.0,26.0,47.0,2000,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+417,CPU,45.0,95.0,169.0,300.0,2600,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+418,CPU,14.0,180.0,213.0,9600.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+419,CPU,22.0,80.0,160.0,1400.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+420,CPU,32.0,35.0,246.0,1178.0,2900,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+421,CPU,65.0,95.0,285.0,450.0,2200,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+422,CPU,45.0,65.0,82.0,228.0,2533,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+423,CPU,90.0,88.0,112.0,125.0,3467,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+424,CPU,32.0,130.0,435.0,2270.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+425,CPU,45.0,65.0,82.0,228.0,2700,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+426,CPU,32.0,20.0,131.0,504.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+427,CPU,45.0,80.0,258.0,758.0,3400,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+428,CPU,90.0,35.0,125.0,114.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+429,CPU,65.0,15.0,90.0,151.0,1666,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+430,CPU,90.0,84.0,109.0,125.0,2930,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+431,CPU,180.0,55.0,217.0,42.0,1400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+432,CPU,32.0,65.0,131.0,504.0,3000,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+433,CPU,90.0,135.0,135.0,155.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+434,CPU,130.0,89.0,193.0,105.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+435,CPU,32.0,15.0,246.0,1178.0,1650,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+436,CPU,65.0,25.0,77.0,122.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+437,CPU,130.0,68.0,101.0,63.0,1917,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+438,CPU,22.0,69.0,160.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+439,CPU,130.0,50.0,80.0,37.0,1467,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+440,CPU,130.0,89.0,193.0,106.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+441,CPU,45.0,95.0,107.0,820.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+442,CPU,22.0,77.0,160.0,1400.0,3400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+443,CPU,90.0,67.0,83.0,69.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+444,CPU,90.0,135.0,135.0,155.0,3200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+445,CPU,65.0,86.0,81.0,188.0,3400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+446,CPU,45.0,4.0,26.0,47.0,1600,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+447,CPU,45.0,25.0,117.0,410.0,1600,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+448,CPU,90.0,84.0,109.0,125.0,2660,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+449,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+450,CPU,14.0,180.0,213.0,9600.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+451,CPU,32.0,80.0,216.0,1160.0,3300,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+452,CPU,130.0,24.0,100.0,77.0,1400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+453,CPU,32.0,80.0,239.0,1170.0,2533,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+454,CPU,32.0,17.0,149.0,624.0,1700,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+455,CPU,22.0,12.0,118.0,1400.0,1400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+456,CPU,32.0,35.0,131.0,504.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+457,CPU,28.0,65.0,246.0,1178.0,3500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+458,CPU,90.0,25.0,125.0,114.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+459,CPU,65.0,45.0,77.0,122.0,2400,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+460,CPU,32.0,45.0,216.0,1160.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+461,CPU,130.0,82.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+462,CPU,7.0,200.0,74.0,3800.0,2200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+463,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+464,CPU,90.0,67.0,84.0,69.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+465,CPU,130.0,62.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+466,CPU,65.0,95.0,285.0,450.0,2500,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+467,CPU,130.0,30.0,131.0,55.0,1700,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+468,CPU,90.0,35.0,103.0,81.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+469,CPU,45.0,65.0,117.0,410.0,3400,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+470,CPU,45.0,13.0,66.0,176.0,1834,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+471,CPU,7.0,200.0,74.0,3800.0,2000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+472,CPU,22.0,35.0,177.0,1400.0,2600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+473,CPU,22.0,130.0,257.0,1860.0,3400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+474,CPU,130.0,45.0,101.0,63.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+475,CPU,130.0,89.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+476,CPU,45.0,80.0,263.0,731.0,2266,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+477,CPU,90.0,35.0,125.0,114.0,2400,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+478,CPU,14.0,65.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+479,CPU,22.0,54.0,177.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+480,CPU,22.0,47.0,264.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+481,CPU,90.0,125.0,235.0,227.0,2800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+482,CPU,45.0,3.0,65.0,140.0,1500,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+483,CPU,32.0,35.0,149.0,624.0,2100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+484,CPU,90.0,110.0,156.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+485,CPU,32.0,73.0,81.0,382.0,3333,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+486,CPU,32.0,35.0,228.0,1178.0,1800,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+487,CPU,32.0,95.0,315.0,1200.0,3300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+488,CPU,130.0,60.0,80.0,37.0,1667,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+489,CPU,65.0,65.0,77.0,105.0,1600,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+490,CPU,32.0,65.0,131.0,504.0,3100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+491,CPU,130.0,62.0,80.0,37.0,1667,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+492,CPU,32.0,35.0,131.0,504.0,1800,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+493,CPU,22.0,15.0,118.0,1400.0,1400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+494,CPU,32.0,40.0,239.0,1170.0,1866,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+495,CPU,90.0,62.0,183.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+496,CPU,12.0,250.0,213.0,19200.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+497,CPU,28.0,15.0,124.0,1200.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+498,CPU,130.0,82.0,193.0,106.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+499,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+500,CPU,45.0,65.0,258.0,758.0,2400,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+501,CPU,22.0,130.0,160.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+502,CPU,45.0,140.0,258.0,758.0,3400,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+503,CPU,14.0,180.0,213.0,9600.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+504,CPU,45.0,45.0,169.0,300.0,2300,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+505,CPU,12.0,15.0,210.0,4940.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+506,CPU,180.0,72.0,120.0,37.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+507,CPU,45.0,125.0,258.0,758.0,3400,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+508,CPU,65.0,65.0,118.0,221.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+509,CPU,130.0,55.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+510,CPU,7.0,25.0,156.0,9800.0,1800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+511,CPU,45.0,80.0,258.0,758.0,3500,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+512,CPU,130.0,82.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+513,CPU,32.0,25.0,246.0,1178.0,1700,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+514,CPU,130.0,89.0,193.0,69.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+515,CPU,90.0,67.0,83.0,69.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+516,CPU,90.0,89.0,220.0,154.0,2800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+517,CPU,32.0,65.0,228.0,1178.0,2100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+518,CPU,32.0,15.0,246.0,1178.0,1500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+519,CPU,45.0,95.0,258.0,758.0,2500,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+520,CPU,32.0,35.0,81.0,382.0,2534,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+521,CPU,14.0,35.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+522,CPU,32.0,115.0,315.0,2400.0,2400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+523,CPU,130.0,30.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+524,CPU,45.0,2.0,26.0,47.0,1867,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+525,CPU,7.0,180.0,74.0,3800.0,2500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+526,CPU,45.0,80.0,263.0,731.0,2266,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+527,CPU,90.0,84.0,109.0,125.0,3060,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+528,CPU,130.0,89.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+529,CPU,45.0,65.0,117.0,410.0,2900,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+530,CPU,45.0,95.0,169.0,300.0,3200,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+531,CPU,65.0,95.0,435.0,1328.0,2500,Intel,Compact(45-90nm),Microscopic(410-1178nm),Most useable space
+532,CPU,32.0,35.0,149.0,624.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+533,CPU,32.0,85.0,316.0,2400.0,1600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+534,CPU,28.0,65.0,246.0,1178.0,3100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+535,CPU,22.0,150.0,160.0,1400.0,2300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+536,CPU,14.0,170.0,213.0,4800.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+537,CPU,90.0,84.0,109.0,125.0,2933,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+538,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+539,CPU,65.0,65.0,285.0,450.0,1800,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+540,CPU,22.0,95.0,160.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+541,CPU,90.0,59.0,1.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+542,CPU,7.0,240.0,74.0,3800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+543,CPU,28.0,65.0,246.0,1178.0,3500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+544,CPU,14.0,65.0,192.0,4800.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+545,CPU,32.0,17.0,246.0,1178.0,2000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+546,CPU,45.0,65.0,82.0,228.0,3067,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+547,CPU,90.0,45.0,3.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+548,CPU,22.0,37.0,118.0,1400.0,2000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+549,CPU,130.0,51.0,80.0,37.0,1533,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+550,CPU,22.0,47.0,264.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+551,CPU,45.0,95.0,82.0,456.0,2500,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+552,CPU,45.0,65.0,82.0,228.0,2933,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+553,CPU,90.0,88.0,112.0,125.0,3067,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+554,CPU,45.0,65.0,107.0,410.0,2833,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+555,CPU,130.0,68.0,80.0,37.0,2083,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+556,CPU,45.0,95.0,258.0,758.0,3200,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+557,CPU,130.0,68.0,101.0,63.0,2083,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+558,CPU,130.0,89.0,193.0,105.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+559,CPU,45.0,95.0,169.0,300.0,3300,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+560,CPU,130.0,89.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+561,CPU,7.0,155.0,74.0,3800.0,2200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+562,CPU,45.0,130.0,263.0,731.0,3066,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+563,CPU,32.0,35.0,81.0,382.0,2400,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+564,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+565,CPU,45.0,80.0,258.0,758.0,3200,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+566,CPU,90.0,27.0,84.0,140.0,1730,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+567,CPU,65.0,95.0,285.0,450.0,2500,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+568,CPU,22.0,115.0,160.0,1400.0,2000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+569,CPU,14.0,95.0,160.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+570,CPU,32.0,65.0,228.0,1178.0,2700,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+571,CPU,7.0,105.0,74.0,3800.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+572,CPU,130.0,62.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+573,CPU,12.0,65.0,192.0,4800.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+574,CPU,22.0,100.0,160.0,1400.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+575,CPU,32.0,130.0,435.0,2270.0,3200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+576,CPU,130.0,73.0,146.0,55.0,2000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+577,CPU,45.0,95.0,82.0,456.0,2500,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+578,CPU,32.0,73.0,81.0,382.0,2800,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+579,CPU,130.0,66.0,131.0,55.0,2667,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+580,CPU,22.0,45.0,160.0,1480.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+581,CPU,32.0,95.0,216.0,1160.0,3500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+582,CPU,130.0,89.0,193.0,106.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+583,CPU,7.0,35.0,156.0,9800.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+584,CPU,90.0,51.0,84.0,69.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+585,CPU,65.0,35.0,143.0,293.0,2333,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+586,CPU,22.0,25.0,118.0,1400.0,1600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+587,CPU,65.0,65.0,285.0,450.0,2100,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+588,CPU,32.0,35.0,131.0,504.0,2600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+589,CPU,90.0,115.0,109.0,125.0,3400,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+590,CPU,45.0,95.0,258.0,758.0,2600,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+591,CPU,22.0,165.0,160.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+592,CPU,45.0,65.0,82.0,228.0,3200,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+593,CPU,45.0,130.0,263.0,731.0,2800,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+594,CPU,130.0,55.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+595,CPU,65.0,95.0,285.0,450.0,2400,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+596,CPU,32.0,65.0,228.0,1178.0,2200,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+597,CPU,32.0,17.0,246.0,1178.0,2200,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+598,CPU,28.0,95.0,246.0,1178.0,3500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+599,CPU,90.0,65.0,220.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+600,CPU,12.0,15.0,210.0,4940.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+601,CPU,180.0,61.0,217.0,42.0,1600,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+602,CPU,22.0,35.0,177.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+603,CPU,90.0,115.0,109.0,125.0,3000,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+604,CPU,32.0,65.0,131.0,504.0,3300,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+605,CPU,130.0,24.0,100.0,77.0,1600,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+606,CPU,90.0,84.0,109.0,125.0,3200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+607,CPU,130.0,62.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+608,CPU,65.0,95.0,140.0,376.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+609,CPU,45.0,45.0,169.0,300.0,2200,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+610,CPU,22.0,15.0,118.0,1300.0,1700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+611,CPU,65.0,45.0,77.0,122.0,2700,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+612,CPU,130.0,62.0,80.0,37.0,1667,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+613,CPU,90.0,35.0,125.0,114.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+614,CPU,65.0,35.0,111.0,293.0,2000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+615,CPU,22.0,15.0,118.0,1400.0,1700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+616,CPU,180.0,55.0,217.0,42.0,1400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+617,CPU,45.0,3.0,26.0,47.0,1600,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+618,CPU,32.0,35.0,246.0,1178.0,2100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+619,CPU,90.0,65.0,220.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+620,CPU,28.0,6.0,124.0,1200.0,1800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+621,CPU,130.0,24.0,100.0,77.0,1500,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+622,CPU,130.0,25.0,144.0,69.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+623,CPU,45.0,35.0,107.0,410.0,2000,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+624,CPU,65.0,65.0,143.0,291.0,1866,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+625,CPU,65.0,65.0,126.0,154.0,2100,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+626,CPU,130.0,45.0,101.0,63.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+627,CPU,65.0,95.0,140.0,376.0,3200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+628,CPU,180.0,72.0,150.0,37.0,1733,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+629,CPU,32.0,35.0,131.0,504.0,2500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+630,CPU,65.0,31.0,90.0,151.0,1600,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+631,CPU,130.0,89.0,193.0,105.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+632,CPU,22.0,54.0,177.0,1400.0,3000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+633,CPU,90.0,84.0,109.0,125.0,2933,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+634,CPU,45.0,130.0,263.0,731.0,2933,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+635,CPU,65.0,65.0,143.0,291.0,2133,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+636,CPU,45.0,35.0,107.0,410.0,2200,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+637,CPU,32.0,45.0,228.0,1178.0,1700,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+638,CPU,180.0,70.0,150.0,37.0,1667,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+639,CPU,45.0,130.0,263.0,731.0,3200,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+640,CPU,32.0,130.0,239.0,1170.0,2933,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+641,CPU,32.0,55.0,216.0,1160.0,2700,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+642,CPU,45.0,65.0,107.0,410.0,3166,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+643,CPU,65.0,65.0,118.0,221.0,1800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+644,CPU,65.0,65.0,77.0,105.0,1600,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+645,CPU,14.0,170.0,213.0,4800.0,2500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+646,CPU,130.0,45.0,101.0,63.0,1862,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+647,CPU,32.0,25.0,246.0,1178.0,2000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+648,CPU,32.0,100.0,228.0,1178.0,2700,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+649,CPU,28.0,15.0,124.0,1200.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+650,CPU,22.0,47.0,264.0,1400.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+651,CPU,32.0,17.0,246.0,1303.0,1900,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+652,CPU,45.0,130.0,263.0,731.0,2933,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+653,CPU,32.0,65.0,246.0,1178.0,3400,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+654,CPU,28.0,10.0,124.0,1200.0,2400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+655,CPU,130.0,62.0,101.0,63.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+656,CPU,45.0,65.0,82.0,228.0,2200,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+657,CPU,65.0,35.0,111.0,293.0,1800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+658,CPU,32.0,115.0,315.0,2400.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+659,CPU,90.0,135.0,213.0,200.0,2667,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+660,CPU,90.0,62.0,84.0,63.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+661,CPU,45.0,9.0,87.0,176.0,1500,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+662,CPU,32.0,35.0,246.0,1178.0,2300,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+663,CPU,32.0,35.0,149.0,624.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+664,CPU,22.0,130.0,160.0,1400.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+665,CPU,45.0,65.0,82.0,456.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+666,CPU,65.0,95.0,140.0,376.0,2800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+667,CPU,65.0,95.0,285.0,450.0,2400,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+668,CPU,45.0,95.0,258.0,758.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+669,CPU,22.0,69.0,160.0,1400.0,3100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+670,CPU,90.0,84.0,109.0,125.0,2933,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+671,CPU,22.0,130.0,160.0,1400.0,2700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+672,CPU,65.0,95.0,435.0,1328.0,3000,Intel,Compact(45-90nm),Microscopic(410-1178nm),Most useable space
+673,CPU,65.0,15.0,90.0,151.0,1500,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+674,CPU,45.0,95.0,296.0,774.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+675,CPU,22.0,35.0,177.0,1400.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+676,CPU,130.0,49.0,80.0,37.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+677,CPU,12.0,15.0,210.0,4940.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+678,CPU,130.0,89.0,144.0,105.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+679,CPU,45.0,10.0,66.0,123.0,1667,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+680,CPU,45.0,60.0,263.0,731.0,2266,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+681,CPU,90.0,89.0,156.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+682,CPU,130.0,110.0,237.0,178.0,3460,Intel,Slightly Compact(90-180nm),Approaching Subatomic(37-125nm),Most useable space
+683,CPU,65.0,35.0,143.0,293.0,2200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+684,CPU,32.0,130.0,239.0,1170.0,3200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+685,CPU,32.0,35.0,131.0,504.0,1900,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+686,CPU,45.0,45.0,169.0,300.0,2300,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+687,CPU,32.0,35.0,131.0,504.0,2600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+688,CPU,45.0,45.0,117.0,410.0,2900,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+689,CPU,90.0,84.0,109.0,125.0,3060,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+690,CPU,65.0,65.0,111.0,167.0,2000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+691,CPU,180.0,72.0,120.0,37.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+692,CPU,22.0,130.0,160.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+693,CPU,22.0,115.0,160.0,1400.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+694,CPU,22.0,54.0,177.0,1400.0,3200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+695,CPU,22.0,84.0,177.0,1400.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+696,CPU,130.0,89.0,193.0,105.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+697,CPU,22.0,80.0,160.0,1400.0,2600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+698,CPU,45.0,65.0,104.0,410.0,2667,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+699,CPU,32.0,35.0,131.0,504.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+700,CPU,45.0,5.0,107.0,410.0,1400,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+701,CPU,14.0,35.0,192.0,4800.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+702,CPU,130.0,25.0,144.0,69.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+703,CPU,45.0,95.0,169.0,300.0,2700,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+704,CPU,90.0,59.0,1.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+705,CPU,90.0,135.0,135.0,155.0,3400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+706,CPU,45.0,95.0,169.0,300.0,3100,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+707,CPU,28.0,45.0,246.0,1178.0,3500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+708,CPU,14.0,125.0,213.0,9600.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+709,CPU,90.0,35.0,220.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+710,CPU,32.0,95.0,435.0,2270.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+711,CPU,65.0,35.0,143.0,293.0,2600,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+712,CPU,130.0,85.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+713,CPU,130.0,24.0,100.0,77.0,1700,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+714,CPU,22.0,140.0,160.0,1400.0,2100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+715,CPU,45.0,45.0,169.0,300.0,2200,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+716,CPU,45.0,65.0,82.0,228.0,2600,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+717,CPU,130.0,82.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+718,CPU,45.0,45.0,117.0,234.0,2800,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+719,CPU,90.0,27.0,84.0,140.0,1600,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+720,CPU,130.0,73.0,146.0,55.0,2000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+721,CPU,130.0,97.0,237.0,286.0,3066,Intel,Slightly Compact(90-180nm),Approaching Subatomic(37-125nm),Most useable space
+722,CPU,130.0,82.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+723,CPU,32.0,95.0,239.0,1170.0,2666,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+724,CPU,32.0,65.0,228.0,1178.0,2500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+725,CPU,32.0,130.0,513.0,2600.0,2000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+726,CPU,90.0,65.0,220.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+727,CPU,32.0,40.0,239.0,1170.0,2133,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+728,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+729,CPU,65.0,35.0,77.0,105.0,2000,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+730,CPU,90.0,84.0,109.0,125.0,2930,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+731,CPU,90.0,21.0,84.0,140.0,2000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+732,CPU,130.0,82.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+733,CPU,130.0,62.0,101.0,63.0,1500,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+734,CPU,22.0,37.0,118.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+735,CPU,32.0,65.0,246.0,1178.0,3200,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+736,CPU,130.0,35.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+737,CPU,45.0,95.0,263.0,731.0,2933,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+738,CPU,45.0,130.0,263.0,731.0,3200,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+739,CPU,90.0,104.0,115.0,114.0,2800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+740,CPU,32.0,35.0,246.0,1178.0,2700,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+741,CPU,45.0,65.0,107.0,420.0,2667,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+742,CPU,65.0,95.0,285.0,450.0,2300,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+743,CPU,130.0,50.0,80.0,37.0,1467,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+744,CPU,90.0,35.0,103.0,81.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+745,CPU,32.0,65.0,131.0,504.0,2700,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+746,CPU,45.0,65.0,82.0,228.0,2933,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+747,CPU,22.0,65.0,160.0,1480.0,2700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+748,CPU,90.0,84.0,109.0,169.0,3200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+749,CPU,14.0,35.0,192.0,4800.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+750,CPU,45.0,125.0,258.0,758.0,3500,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+751,CPU,45.0,80.0,263.0,731.0,2133,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+752,CPU,7.0,280.0,74.0,3800.0,2700,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+753,CPU,90.0,84.0,109.0,125.0,2933,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+754,CPU,45.0,25.0,117.0,410.0,2000,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+755,CPU,90.0,67.0,84.0,69.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+756,CPU,32.0,60.0,239.0,1170.0,2266,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+757,CPU,28.0,6.0,124.0,1200.0,1600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+758,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+759,CPU,32.0,35.0,131.0,504.0,1800,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+760,CPU,90.0,62.0,103.0,81.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+761,CPU,90.0,65.0,220.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+762,CPU,90.0,45.0,230.0,227.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+763,CPU,90.0,89.0,199.0,233.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+764,CPU,65.0,95.0,435.0,1328.0,3000,Intel,Compact(45-90nm),Microscopic(410-1178nm),Most useable space
+765,CPU,45.0,95.0,258.0,758.0,2600,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+766,CPU,90.0,84.0,109.0,125.0,2933,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+767,CPU,45.0,45.0,117.0,410.0,2800,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+768,CPU,32.0,45.0,228.0,1178.0,1900,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+769,CPU,45.0,95.0,82.0,456.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+770,CPU,22.0,115.0,160.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+771,CPU,90.0,67.0,84.0,69.0,2400,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+772,CPU,90.0,65.0,220.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+773,CPU,32.0,115.0,315.0,2400.0,2500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+774,CPU,45.0,95.0,169.0,300.0,2800,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+775,CPU,65.0,65.0,126.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+776,CPU,90.0,88.0,112.0,125.0,3334,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+777,CPU,130.0,110.0,146.0,55.0,2400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+778,CPU,45.0,45.0,169.0,300.0,2600,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+779,CPU,45.0,82.0,296.0,774.0,2400,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+780,CPU,45.0,95.0,346.0,904.0,2700,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+781,CPU,22.0,15.0,118.0,1400.0,1700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+782,CPU,65.0,45.0,126.0,154.0,2500,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+783,CPU,32.0,65.0,131.0,504.0,3400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+784,CPU,22.0,54.0,177.0,1400.0,2700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+785,CPU,130.0,85.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+786,CPU,22.0,130.0,160.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+787,CPU,22.0,15.0,118.0,1400.0,1400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+788,CPU,45.0,65.0,258.0,758.0,2500,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+789,CPU,130.0,62.0,80.0,37.0,1833,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+790,CPU,32.0,65.0,131.0,504.0,3300,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+791,CPU,32.0,65.0,131.0,504.0,2600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+792,CPU,22.0,115.0,160.0,1400.0,2000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+793,CPU,22.0,115.0,160.0,1400.0,1900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+794,CPU,22.0,47.0,264.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+795,CPU,90.0,62.0,103.0,81.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+796,CPU,45.0,95.0,169.0,300.0,2900,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+797,CPU,22.0,77.0,160.0,1400.0,3200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+798,CPU,32.0,95.0,315.0,1200.0,3300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+799,CPU,90.0,89.0,156.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+800,CPU,130.0,35.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+801,CPU,22.0,70.0,160.0,1400.0,1700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+802,CPU,32.0,87.0,81.0,382.0,3333,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+803,CPU,90.0,89.0,83.0,69.0,2400,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+804,CPU,32.0,73.0,81.0,382.0,2800,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+805,CPU,130.0,62.0,101.0,63.0,1583,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+806,CPU,45.0,95.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+807,CPU,130.0,85.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+808,CPU,7.0,280.0,74.0,3800.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+809,CPU,65.0,65.0,111.0,167.0,2600,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+810,CPU,32.0,35.0,149.0,624.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+811,CPU,45.0,95.0,296.0,774.0,2933,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+812,CPU,130.0,85.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+813,CPU,65.0,27.0,90.0,151.0,1833,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+814,CPU,90.0,89.0,199.0,233.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+815,CPU,32.0,35.0,228.0,1178.0,1900,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+816,CPU,12.0,65.0,192.0,4800.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+817,CPU,22.0,28.0,118.0,1300.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+818,CPU,22.0,55.0,160.0,1400.0,3000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+819,CPU,45.0,130.0,263.0,731.0,2400,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+820,CPU,90.0,51.0,84.0,69.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+821,CPU,130.0,110.0,237.0,178.0,3400,Intel,Slightly Compact(90-180nm),Approaching Subatomic(37-125nm),Most useable space
+822,CPU,65.0,95.0,285.0,450.0,2100,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+823,CPU,32.0,73.0,81.0,382.0,2933,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+824,CPU,32.0,100.0,228.0,1178.0,2800,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+825,CPU,90.0,62.0,84.0,63.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+826,CPU,22.0,15.0,118.0,1300.0,1500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+827,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+828,CPU,32.0,35.0,149.0,624.0,2300,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+829,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+830,CPU,32.0,130.0,239.0,1170.0,3333,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+831,CPU,45.0,95.0,346.0,904.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+832,CPU,7.0,54.0,156.0,9800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+833,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+834,CPU,12.0,15.0,210.0,4940.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+835,CPU,45.0,80.0,258.0,758.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+836,CPU,65.0,95.0,143.0,582.0,2666,Intel,Compact(45-90nm),Microminiature(125-410nm),Some useable space
+837,CPU,22.0,47.0,264.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+838,CPU,45.0,45.0,117.0,410.0,2700,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+839,CPU,90.0,21.0,84.0,140.0,1700,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+840,CPU,65.0,89.0,126.0,154.0,3000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+841,CPU,90.0,84.0,109.0,125.0,2660,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+842,CPU,45.0,95.0,107.0,820.0,3000,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+843,CPU,32.0,35.0,81.0,382.0,2534,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+844,CPU,32.0,45.0,216.0,1160.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+845,CPU,45.0,65.0,82.0,228.0,3200,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+846,CPU,90.0,89.0,220.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+847,CPU,32.0,65.0,131.0,504.0,2900,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+848,CPU,22.0,54.0,177.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+849,CPU,45.0,125.0,258.0,758.0,2000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+850,CPU,45.0,95.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+851,CPU,12.0,65.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+852,CPU,45.0,150.0,107.0,820.0,3200,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+853,CPU,90.0,59.0,1.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+854,CPU,65.0,150.0,435.0,1328.0,3333,Intel,Compact(45-90nm),Microscopic(410-1178nm),Most useable space
+855,CPU,65.0,65.0,143.0,291.0,2667,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+856,CPU,130.0,110.0,237.0,178.0,3200,Intel,Slightly Compact(90-180nm),Approaching Subatomic(37-125nm),Most useable space
+857,CPU,45.0,65.0,82.0,228.0,3333,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+858,CPU,45.0,65.0,117.0,410.0,3300,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+859,CPU,65.0,95.0,285.0,450.0,2200,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+860,CPU,90.0,22.0,125.0,114.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+861,CPU,45.0,130.0,263.0,731.0,3066,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+862,CPU,14.0,120.0,213.0,4800.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+863,CPU,7.0,35.0,156.0,9800.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+864,CPU,32.0,25.0,246.0,1178.0,2000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+865,CPU,22.0,45.0,160.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+866,CPU,22.0,54.0,177.0,1400.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+867,CPU,45.0,65.0,82.0,228.0,2700,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+868,CPU,130.0,68.0,101.0,63.0,1833,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+869,CPU,32.0,100.0,228.0,1178.0,2600,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+870,CPU,90.0,89.0,156.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+871,CPU,130.0,89.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+872,CPU,32.0,45.0,216.0,1160.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+873,CPU,45.0,95.0,346.0,904.0,2600,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+874,CPU,90.0,62.0,84.0,63.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+875,CPU,90.0,35.0,183.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+876,CPU,14.0,65.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+877,CPU,130.0,89.0,144.0,69.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+878,CPU,130.0,32.0,144.0,69.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+879,CPU,90.0,25.0,125.0,114.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+880,CPU,32.0,95.0,239.0,1170.0,3066,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+881,CPU,32.0,17.0,131.0,504.0,1500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+882,CPU,65.0,125.0,285.0,450.0,2600,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+883,CPU,45.0,45.0,169.0,300.0,2700,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+884,CPU,130.0,45.0,101.0,63.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+885,CPU,45.0,130.0,263.0,731.0,3200,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+886,CPU,65.0,65.0,77.0,105.0,2000,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+887,CPU,32.0,80.0,239.0,1170.0,2666,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+888,CPU,32.0,35.0,228.0,1178.0,2100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+889,CPU,7.0,25.0,156.0,9800.0,2700,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+890,CPU,90.0,73.0,109.0,125.0,3060,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+891,CPU,90.0,35.0,103.0,81.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+892,CPU,65.0,45.0,77.0,122.0,2700,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+893,CPU,130.0,89.0,193.0,106.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+894,CPU,32.0,35.0,131.0,504.0,2100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+895,CPU,45.0,45.0,169.0,300.0,2500,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+896,CPU,130.0,68.0,131.0,55.0,2800,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+897,CPU,32.0,35.0,81.0,384.0,2800,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+898,CPU,32.0,130.0,239.0,1170.0,3466,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+899,CPU,130.0,63.0,80.0,37.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+900,CPU,28.0,65.0,246.0,1178.0,3500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+901,CPU,130.0,89.0,193.0,105.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+902,CPU,22.0,65.0,177.0,1400.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+903,CPU,130.0,89.0,193.0,106.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+904,CPU,32.0,115.0,316.0,2400.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+905,CPU,22.0,140.0,356.0,2600.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+906,CPU,90.0,32.0,125.0,114.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+907,CPU,22.0,37.0,118.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+908,CPU,130.0,35.0,131.0,55.0,2600,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+909,CPU,65.0,35.0,77.0,105.0,1800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+910,CPU,130.0,82.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+911,CPU,32.0,45.0,216.0,1160.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+912,CPU,65.0,65.0,77.0,105.0,2200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+913,CPU,22.0,37.0,118.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+914,CPU,130.0,70.0,131.0,55.0,3067,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+915,CPU,32.0,35.0,246.0,1178.0,2900,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+916,CPU,45.0,60.0,263.0,731.0,2133,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+917,CPU,32.0,80.0,239.0,1170.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+918,CPU,28.0,35.0,246.0,1178.0,3000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+919,CPU,65.0,31.0,90.0,151.0,1992,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+920,CPU,22.0,165.0,160.0,1400.0,2500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+921,CPU,130.0,92.0,146.0,55.0,2600,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+922,CPU,130.0,62.0,101.0,63.0,1667,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+923,CPU,14.0,65.0,192.0,4800.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+924,CPU,130.0,32.0,144.0,69.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+925,CPU,32.0,130.0,435.0,2270.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+926,CPU,45.0,95.0,346.0,904.0,2700,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+927,CPU,32.0,35.0,246.0,1178.0,1900,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+928,CPU,22.0,95.0,160.0,1400.0,2200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+929,CPU,130.0,82.0,131.0,55.0,3000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+930,CPU,90.0,110.0,199.0,233.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+931,CPU,14.0,65.0,192.0,4800.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+932,CPU,14.0,50.0,213.0,4800.0,2500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+933,CPU,32.0,3.0,65.0,140.0,1800,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+934,CPU,22.0,54.0,177.0,1400.0,3200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+935,CPU,32.0,25.0,246.0,1178.0,2100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+936,CPU,32.0,35.0,81.0,382.0,2667,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+937,CPU,130.0,35.0,131.0,55.0,2200,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+938,CPU,32.0,35.0,81.0,382.0,2267,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+939,CPU,12.0,180.0,213.0,19200.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+940,CPU,90.0,84.0,109.0,125.0,3200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+941,CPU,32.0,130.0,239.0,1170.0,3333,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+942,CPU,14.0,65.0,210.0,4950.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+943,CPU,22.0,54.0,177.0,1400.0,3200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+944,CPU,45.0,65.0,82.0,228.0,2500,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+945,CPU,90.0,89.0,220.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+946,CPU,90.0,67.0,156.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+947,CPU,32.0,35.0,246.0,1178.0,2500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+948,CPU,65.0,65.0,118.0,221.0,1800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+949,CPU,45.0,82.0,296.0,774.0,2533,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+950,CPU,130.0,89.0,131.0,55.0,3400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+951,CPU,130.0,73.0,146.0,55.0,2600,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+952,CPU,90.0,62.0,183.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+953,CPU,90.0,84.0,109.0,169.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+954,CPU,65.0,65.0,76.0,105.0,1866,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+955,CPU,130.0,55.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+956,CPU,130.0,62.0,101.0,63.0,1750,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+957,CPU,65.0,31.0,90.0,151.0,2333,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+958,CPU,130.0,89.0,144.0,69.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+959,CPU,12.0,15.0,210.0,4940.0,2600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+960,CPU,45.0,25.0,117.0,410.0,1800,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+961,CPU,130.0,89.0,217.0,55.0,2790,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+962,CPU,90.0,115.0,109.0,125.0,3200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+963,CPU,130.0,65.0,80.0,37.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+964,CPU,65.0,65.0,143.0,291.0,1860,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+965,CPU,45.0,80.0,258.0,758.0,3100,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+966,CPU,22.0,54.0,177.0,1400.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+967,CPU,32.0,65.0,131.0,504.0,2600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+968,CPU,90.0,125.0,235.0,227.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+969,CPU,45.0,4.0,96.0,47.0,1600,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+970,CPU,130.0,69.0,131.0,55.0,2600,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+971,CPU,12.0,15.0,210.0,4940.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+972,CPU,22.0,47.0,264.0,1400.0,2600,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+973,CPU,130.0,35.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+974,CPU,180.0,58.0,217.0,42.0,1500,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+975,CPU,14.0,15.0,210.0,4950.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+976,CPU,45.0,82.0,296.0,774.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+977,CPU,45.0,95.0,263.0,731.0,2800,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+978,CPU,180.0,72.0,217.0,42.0,2000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+979,CPU,90.0,89.0,220.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+980,CPU,65.0,75.0,143.0,291.0,2933,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+981,CPU,90.0,84.0,109.0,125.0,2667,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+982,CPU,130.0,97.0,237.0,286.0,3200,Intel,Slightly Compact(90-180nm),Approaching Subatomic(37-125nm),Most useable space
+983,CPU,22.0,37.0,118.0,1400.0,2000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+984,CPU,14.0,65.0,210.0,4950.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+985,CPU,45.0,95.0,258.0,758.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+986,CPU,7.0,155.0,74.0,3800.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+987,CPU,90.0,88.0,112.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+988,CPU,65.0,22.0,77.0,122.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+989,CPU,65.0,65.0,126.0,154.0,2500,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+990,CPU,32.0,35.0,131.0,504.0,1900,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+991,CPU,32.0,65.0,216.0,1160.0,2500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+992,CPU,32.0,35.0,131.0,504.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+993,CPU,130.0,82.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+994,CPU,90.0,65.0,220.0,154.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+995,CPU,45.0,125.0,346.0,904.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+996,CPU,65.0,95.0,143.0,582.0,2400,Intel,Compact(45-90nm),Microminiature(125-410nm),Some useable space
+997,CPU,45.0,35.0,107.0,410.0,2100,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+998,CPU,22.0,54.0,177.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+999,CPU,65.0,150.0,435.0,1328.0,3166,Intel,Compact(45-90nm),Microscopic(410-1178nm),Most useable space
+1000,CPU,45.0,65.0,82.0,228.0,2933,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+1001,CPU,32.0,45.0,246.0,1178.0,2500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1002,CPU,180.0,66.0,150.0,37.0,1533,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1003,CPU,22.0,95.0,160.0,1400.0,1900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1004,CPU,28.0,25.0,124.0,1200.0,2900,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1005,CPU,22.0,35.0,177.0,1400.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1006,CPU,45.0,65.0,117.0,410.0,2800,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+1007,CPU,130.0,82.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1008,CPU,32.0,65.0,246.0,1178.0,3500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1009,CPU,90.0,21.0,84.0,140.0,1800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+1010,CPU,90.0,89.0,156.0,154.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1011,CPU,32.0,65.0,315.0,1200.0,2600,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1012,CPU,22.0,95.0,160.0,1400.0,2000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1013,CPU,14.0,65.0,192.0,4800.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1014,CPU,45.0,125.0,346.0,904.0,3500,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1015,CPU,32.0,95.0,239.0,1170.0,2800,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1016,CPU,90.0,62.0,84.0,63.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1017,CPU,45.0,80.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1018,CPU,45.0,65.0,117.0,410.0,3100,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+1019,CPU,90.0,115.0,109.0,125.0,3400,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1020,CPU,45.0,80.0,263.0,731.0,1866,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1021,CPU,32.0,65.0,131.0,504.0,2700,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1022,CPU,130.0,89.0,144.0,105.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1023,CPU,130.0,66.0,131.0,55.0,2667,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1024,CPU,32.0,115.0,316.0,2400.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1025,CPU,32.0,115.0,316.0,2400.0,2400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1026,CPU,65.0,95.0,285.0,450.0,2400,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+1027,CPU,130.0,35.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1028,CPU,65.0,95.0,285.0,450.0,2300,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+1029,CPU,65.0,65.0,126.0,154.0,2800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1030,CPU,32.0,73.0,81.0,382.0,3333,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1031,CPU,90.0,84.0,109.0,125.0,3200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1032,CPU,130.0,73.0,146.0,55.0,2100,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1033,CPU,32.0,35.0,131.0,504.0,2700,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1034,CPU,90.0,84.0,109.0,125.0,3060,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1035,CPU,7.0,35.0,156.0,9800.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1036,CPU,90.0,84.0,109.0,125.0,3060,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1037,CPU,65.0,45.0,126.0,154.0,2300,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1038,CPU,45.0,130.0,107.0,820.0,3000,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+1039,CPU,32.0,10.0,66.0,176.0,2133,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1040,CPU,14.0,65.0,192.0,4800.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1041,CPU,180.0,63.0,150.0,37.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1042,CPU,7.0,280.0,74.0,3800.0,2900,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+1043,CPU,65.0,130.0,140.0,376.0,3400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1044,CPU,32.0,100.0,228.0,1178.0,3000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1045,CPU,180.0,61.0,217.0,42.0,1600,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1046,CPU,22.0,115.0,160.0,1400.0,2100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1047,CPU,7.0,225.0,74.0,3800.0,2400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+1048,CPU,45.0,125.0,258.0,758.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1049,CPU,22.0,80.0,160.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1050,CPU,90.0,89.0,115.0,105.0,2400,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+1051,CPU,32.0,17.0,149.0,624.0,1600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1052,CPU,65.0,130.0,143.0,582.0,2933,Intel,Compact(45-90nm),Microminiature(125-410nm),Some useable space
+1053,CPU,22.0,140.0,356.0,2600.0,3000,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1054,CPU,32.0,65.0,131.0,504.0,2500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1055,CPU,14.0,51.0,150.0,1400.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1056,CPU,130.0,110.0,146.0,55.0,3060,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1057,CPU,130.0,25.0,144.0,69.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1058,CPU,32.0,95.0,239.0,1170.0,2933,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1059,CPU,14.0,140.0,213.0,9600.0,3200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1060,CPU,32.0,45.0,216.0,1160.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+1061,CPU,45.0,130.0,263.0,731.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1062,CPU,45.0,65.0,82.0,228.0,2400,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+1063,CPU,90.0,135.0,213.0,200.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1064,CPU,32.0,95.0,216.0,1160.0,3100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+1065,CPU,65.0,27.0,90.0,151.0,1660,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+1066,CPU,90.0,84.0,109.0,125.0,3000,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1067,CPU,90.0,84.0,109.0,169.0,3400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+1068,CPU,45.0,130.0,263.0,731.0,3200,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1069,CPU,45.0,65.0,82.0,228.0,2800,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+1070,CPU,130.0,53.0,80.0,37.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1071,CPU,130.0,89.0,217.0,55.0,2394,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1072,CPU,130.0,82.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1073,CPU,90.0,84.0,109.0,125.0,2800,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1074,CPU,32.0,45.0,216.0,1160.0,2500,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+1075,CPU,22.0,130.0,160.0,1400.0,3400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1076,CPU,14.0,35.0,192.0,4800.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1077,CPU,32.0,130.0,239.0,1170.0,3333,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1078,CPU,65.0,84.0,109.0,125.0,3200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1079,CPU,65.0,35.0,77.0,105.0,2200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1080,CPU,130.0,68.0,101.0,63.0,2167,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1081,CPU,32.0,25.0,315.0,1200.0,1900,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1082,CPU,7.0,35.0,156.0,9800.0,2900,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1083,CPU,90.0,35.0,125.0,114.0,2400,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+1084,CPU,32.0,35.0,131.0,504.0,1600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1085,CPU,22.0,47.0,264.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1086,CPU,90.0,130.0,206.0,169.0,2800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1087,CPU,32.0,35.0,149.0,624.0,2100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1088,CPU,130.0,60.0,80.0,37.0,1667,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1089,CPU,45.0,80.0,258.0,758.0,3300,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1090,CPU,32.0,35.0,81.0,384.0,1877,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1091,CPU,45.0,8.0,96.0,47.0,1600,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+1092,CPU,90.0,84.0,109.0,125.0,2660,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1093,CPU,22.0,35.0,118.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1094,CPU,32.0,95.0,315.0,1200.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1095,CPU,32.0,85.0,315.0,2400.0,1800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1096,CPU,65.0,130.0,140.0,376.0,2800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1097,CPU,45.0,2.0,65.0,140.0,1600,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+1098,CPU,65.0,45.0,77.0,122.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1099,CPU,45.0,80.0,263.0,731.0,2400,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1100,CPU,45.0,136.0,107.0,820.0,3200,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+1101,CPU,130.0,30.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1102,CPU,32.0,35.0,228.0,1178.0,1600,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1103,CPU,32.0,35.0,81.0,384.0,2677,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1104,CPU,65.0,65.0,126.0,154.0,2900,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1105,CPU,130.0,62.0,101.0,63.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1106,CPU,45.0,95.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1107,CPU,7.0,120.0,74.0,3800.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+1108,CPU,65.0,45.0,126.0,154.0,1900,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1109,CPU,22.0,84.0,177.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1110,CPU,65.0,130.0,140.0,376.0,3460,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1111,CPU,22.0,37.0,264.0,1400.0,2300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1112,CPU,130.0,62.0,144.0,69.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1113,CPU,90.0,135.0,169.0,178.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1114,CPU,32.0,35.0,149.0,624.0,2400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1115,CPU,65.0,65.0,126.0,154.0,2800,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1116,CPU,32.0,35.0,246.0,1178.0,2700,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1117,CPU,65.0,65.0,126.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1118,CPU,32.0,15.0,246.0,1178.0,1400,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1119,CPU,32.0,35.0,149.0,624.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1120,CPU,65.0,75.0,143.0,291.0,3000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1121,CPU,32.0,100.0,228.0,1178.0,3000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1122,CPU,130.0,62.0,80.0,37.0,1992,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1123,CPU,90.0,84.0,109.0,125.0,2933,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1124,CPU,32.0,35.0,81.0,382.0,2667,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1125,CPU,130.0,89.0,144.0,69.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1126,CPU,65.0,35.0,143.0,293.0,2400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1127,CPU,32.0,65.0,228.0,1178.0,2500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1128,CPU,65.0,35.0,143.0,293.0,2000,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1129,CPU,130.0,70.0,131.0,55.0,3067,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1130,CPU,7.0,54.0,156.0,9800.0,2900,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1131,CPU,130.0,92.0,146.0,55.0,2200,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1132,CPU,65.0,65.0,77.0,105.0,2200,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1133,CPU,32.0,65.0,131.0,504.0,2600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1134,CPU,65.0,95.0,285.0,450.0,2500,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+1135,CPU,180.0,72.0,217.0,42.0,2000,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1136,CPU,65.0,65.0,126.0,154.0,2300,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1137,CPU,65.0,65.0,77.0,105.0,2400,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1138,CPU,65.0,95.0,285.0,450.0,2300,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+1139,CPU,130.0,89.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1140,CPU,45.0,95.0,169.0,300.0,3100,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+1141,CPU,32.0,35.0,246.0,1178.0,2500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1142,CPU,32.0,95.0,239.0,1170.0,3200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1143,CPU,14.0,170.0,213.0,4800.0,2400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1144,CPU,22.0,45.0,160.0,1400.0,2700,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1145,CPU,130.0,62.0,101.0,63.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1146,CPU,22.0,54.0,177.0,1400.0,2400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1147,CPU,65.0,65.0,118.0,221.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1148,CPU,32.0,80.0,216.0,1160.0,3100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+1149,CPU,32.0,65.0,246.0,1178.0,3200,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1150,CPU,45.0,95.0,258.0,758.0,2800,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1151,CPU,45.0,130.0,263.0,731.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1152,CPU,45.0,80.0,263.0,731.0,2000,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1153,CPU,7.0,280.0,74.0,3800.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+1154,CPU,90.0,125.0,230.0,227.0,3200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+1155,CPU,65.0,130.0,143.0,582.0,3000,Intel,Compact(45-90nm),Microminiature(125-410nm),Some useable space
+1156,CPU,45.0,65.0,107.0,410.0,2667,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+1157,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1158,CPU,90.0,45.0,230.0,227.0,2200,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+1159,CPU,130.0,89.0,144.0,69.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1160,CPU,45.0,95.0,296.0,774.0,2800,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1161,CPU,32.0,17.0,246.0,1178.0,2100,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1162,CPU,65.0,140.0,285.0,450.0,2600,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+1163,CPU,90.0,89.0,220.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1164,CPU,14.0,45.0,210.0,4950.0,3250,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1165,CPU,90.0,35.0,125.0,114.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+1166,CPU,32.0,80.0,239.0,1170.0,2266,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1167,CPU,45.0,45.0,117.0,234.0,2400,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+1168,CPU,130.0,85.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1169,CPU,45.0,65.0,117.0,410.0,2700,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+1170,CPU,65.0,65.0,111.0,167.0,2200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1171,CPU,14.0,170.0,213.0,4800.0,2000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1172,CPU,90.0,59.0,84.0,69.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1173,CPU,180.0,58.0,217.0,42.0,1500,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1174,CPU,45.0,60.0,263.0,731.0,2400,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1175,CPU,65.0,95.0,285.0,450.0,2400,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+1176,CPU,22.0,37.0,118.0,1400.0,2300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1177,CPU,32.0,15.0,246.0,1178.0,1500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1178,CPU,90.0,65.0,220.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1179,CPU,14.0,35.0,192.0,4800.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1180,CPU,32.0,95.0,216.0,1160.0,3000,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+1181,CPU,130.0,73.0,146.0,55.0,2200,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1182,CPU,130.0,89.0,193.0,106.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1183,CPU,65.0,45.0,126.0,154.0,2100,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1184,CPU,45.0,45.0,169.0,300.0,2600,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+1185,CPU,45.0,2.0,26.0,47.0,1600,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+1186,CPU,65.0,15.0,77.0,122.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1187,CPU,45.0,95.0,258.0,758.0,3200,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1188,CPU,32.0,35.0,149.0,624.0,2300,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1189,CPU,90.0,62.0,84.0,63.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1190,CPU,130.0,76.0,131.0,55.0,3200,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1191,CPU,90.0,62.0,84.0,63.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1192,CPU,65.0,65.0,126.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1193,CPU,90.0,62.0,103.0,81.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1194,CPU,90.0,62.0,230.0,227.0,2400,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Most useable space
+1195,CPU,45.0,80.0,263.0,731.0,2533,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1196,CPU,90.0,135.0,169.0,178.0,3400,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1197,CPU,45.0,95.0,169.0,300.0,3400,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Considerable useable space
+1198,CPU,130.0,110.0,146.0,55.0,2261,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1199,CPU,32.0,35.0,131.0,504.0,2000,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1200,CPU,45.0,125.0,346.0,904.0,2900,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1201,CPU,22.0,45.0,160.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1202,CPU,45.0,80.0,258.0,758.0,3100,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1203,CPU,45.0,95.0,263.0,731.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1204,CPU,45.0,130.0,263.0,731.0,2800,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1205,CPU,32.0,65.0,131.0,504.0,3100,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1206,CPU,22.0,65.0,177.0,1400.0,2800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1207,CPU,45.0,38.0,263.0,731.0,2000,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1208,CPU,45.0,95.0,258.0,758.0,3200,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1209,CPU,32.0,35.0,228.0,1178.0,1500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1210,CPU,32.0,130.0,239.0,1170.0,3333,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1211,CPU,12.0,180.0,213.0,19200.0,3500,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1212,CPU,32.0,65.0,228.0,1178.0,2400,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1213,CPU,130.0,77.0,101.0,63.0,2200,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1214,CPU,65.0,15.0,77.0,122.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1215,CPU,22.0,35.0,177.0,1400.0,3200,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1216,CPU,32.0,130.0,239.0,1170.0,3466,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1217,CPU,130.0,62.0,144.0,63.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1218,CPU,130.0,89.0,193.0,105.0,2400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1219,CPU,45.0,65.0,82.0,456.0,2666,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+1220,CPU,22.0,47.0,177.0,1400.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1221,CPU,45.0,6.0,66.0,123.0,1667,Intel,Highly Compact(32-45nm),Infinitesimal(1-37nm),Least useable space
+1222,CPU,32.0,35.0,131.0,504.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1223,CPU,28.0,65.0,246.0,1178.0,3200,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1224,CPU,180.0,64.0,150.0,37.0,1467,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1225,CPU,32.0,95.0,216.0,1160.0,3300,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+1226,CPU,180.0,64.0,217.0,42.0,1700,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1227,CPU,32.0,125.0,315.0,1200.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1228,CPU,7.0,25.0,156.0,9800.0,2300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1229,CPU,32.0,73.0,81.0,382.0,3200,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1230,CPU,130.0,30.0,131.0,55.0,1800,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1231,CPU,32.0,35.0,131.0,504.0,1600,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1232,CPU,65.0,31.0,90.0,151.0,1660,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+1233,CPU,45.0,130.0,263.0,731.0,2533,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1234,CPU,32.0,80.0,216.0,1160.0,3400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Considerable useable space
+1235,CPU,130.0,104.0,193.0,105.0,2600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1236,CPU,32.0,45.0,228.0,1178.0,2200,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1237,CPU,45.0,125.0,258.0,758.0,3200,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1238,CPU,130.0,85.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1239,CPU,130.0,85.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1240,CPU,130.0,62.0,80.0,37.0,1500,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1241,CPU,32.0,35.0,131.0,504.0,2000,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1242,CPU,7.0,120.0,74.0,3800.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+1243,CPU,65.0,65.0,126.0,154.0,2700,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1244,CPU,130.0,110.0,237.0,178.0,3400,Intel,Slightly Compact(90-180nm),Approaching Subatomic(37-125nm),Most useable space
+1245,CPU,130.0,110.0,146.0,55.0,2660,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1246,CPU,45.0,65.0,82.0,228.0,2800,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+1247,CPU,90.0,135.0,169.0,178.0,3200,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1248,CPU,22.0,77.0,160.0,1400.0,3500,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1249,CPU,130.0,74.0,80.0,37.0,2250,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1250,CPU,14.0,95.0,192.0,4800.0,3400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1251,CPU,22.0,69.0,160.0,1400.0,3400,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1252,CPU,45.0,65.0,82.0,228.0,2800,Intel,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Least useable space
+1253,CPU,90.0,89.0,115.0,105.0,2200,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+1254,CPU,12.0,35.0,210.0,4940.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1255,CPU,12.0,65.0,192.0,4800.0,2800,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1256,CPU,32.0,73.0,81.0,382.0,3200,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1257,CPU,45.0,80.0,263.0,731.0,2000,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1258,CPU,7.0,155.0,74.0,3800.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+1259,CPU,32.0,100.0,228.0,1178.0,3000,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1260,CPU,32.0,19.0,246.0,1178.0,1600,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1261,CPU,130.0,68.0,80.0,37.0,2167,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1262,CPU,130.0,35.0,131.0,55.0,2400,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1263,CPU,130.0,62.0,80.0,37.0,1733,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1264,CPU,32.0,35.0,315.0,1200.0,2200,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1265,CPU,45.0,125.0,258.0,758.0,3200,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1266,CPU,32.0,73.0,81.0,382.0,3066,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1267,CPU,65.0,125.0,285.0,450.0,2500,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+1268,CPU,65.0,35.0,77.0,105.0,1600,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1269,CPU,90.0,104.0,115.0,114.0,2600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+1270,CPU,32.0,35.0,228.0,1178.0,1500,AMD,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1271,CPU,22.0,54.0,177.0,1400.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1272,CPU,32.0,17.0,149.0,624.0,1400,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1273,CPU,130.0,89.0,193.0,106.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1274,CPU,90.0,73.0,109.0,125.0,2533,Intel,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1275,CPU,45.0,95.0,107.0,820.0,2833,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+1276,CPU,22.0,15.0,118.0,1300.0,2100,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1277,CPU,90.0,89.0,220.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1278,CPU,32.0,95.0,315.0,1200.0,3300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1279,CPU,65.0,65.0,285.0,450.0,1900,AMD,Compact(45-90nm),Microminiature(125-410nm),Most useable space
+1280,CPU,32.0,60.0,239.0,1170.0,2000,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1281,CPU,45.0,65.0,82.0,456.0,2333,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Least useable space
+1282,CPU,7.0,155.0,74.0,3800.0,2400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+1283,CPU,32.0,7.0,66.0,176.0,1867,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1284,CPU,180.0,64.0,217.0,42.0,1700,Intel,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1285,CPU,130.0,89.0,144.0,69.0,2000,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Some useable space
+1286,CPU,45.0,95.0,296.0,774.0,2800,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1287,CPU,45.0,95.0,296.0,774.0,2933,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1288,CPU,12.0,15.0,210.0,4940.0,2100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1289,CPU,32.0,10.0,66.0,176.0,1867,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1290,CPU,90.0,89.0,156.0,154.0,2000,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1291,CPU,32.0,35.0,149.0,624.0,2200,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Some useable space
+1292,CPU,7.0,54.0,156.0,9800.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1293,CPU,32.0,35.0,81.0,382.0,2533,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1294,CPU,130.0,82.0,193.0,106.0,1600,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1295,CPU,32.0,80.0,239.0,1170.0,2133,Intel,Extremely Compact(0-32nm),Microminiature(125-410nm),Most useable space
+1296,CPU,90.0,67.0,83.0,69.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1297,CPU,90.0,62.0,103.0,81.0,2000,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1298,CPU,130.0,82.0,193.0,106.0,1800,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1299,CPU,45.0,130.0,263.0,731.0,3333,Intel,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1300,CPU,90.0,62.0,84.0,63.0,1800,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Least useable space
+1301,CPU,7.0,35.0,156.0,9800.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1302,CPU,130.0,85.0,193.0,106.0,1400,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Considerable useable space
+1303,CPU,22.0,17.0,118.0,1400.0,1800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1304,CPU,14.0,170.0,213.0,4800.0,2400,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Considerable useable space
+1305,CPU,90.0,27.0,84.0,140.0,1860,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Least useable space
+1306,CPU,45.0,45.0,117.0,410.0,2600,AMD,Highly Compact(32-45nm),Approaching Subatomic(37-125nm),Some useable space
+1307,CPU,32.0,35.0,81.0,384.0,2133,Intel,Extremely Compact(0-32nm),Approaching Subatomic(37-125nm),Least useable space
+1308,CPU,22.0,69.0,160.0,1400.0,3300,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1309,CPU,22.0,37.0,118.0,1300.0,2900,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1310,CPU,65.0,35.0,143.0,293.0,2166,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1311,CPU,45.0,125.0,258.0,758.0,3000,AMD,Highly Compact(32-45nm),Microminiature(125-410nm),Most useable space
+1312,CPU,90.0,35.0,125.0,114.0,1600,AMD,Compact(45-90nm),Infinitesimal(1-37nm),Some useable space
+1313,CPU,22.0,47.0,264.0,1400.0,1800,Intel,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1314,CPU,32.0,65.0,315.0,1200.0,3000,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Most useable space
+1315,CPU,90.0,130.0,206.0,169.0,2800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
+1316,CPU,90.0,135.0,135.0,155.0,2800,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1317,CPU,7.0,155.0,74.0,3800.0,3100,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Least useable space
+1318,CPU,130.0,68.0,101.0,63.0,1917,AMD,Slightly Compact(90-180nm),Infinitesimal(1-37nm),Least useable space
+1319,CPU,7.0,54.0,156.0,9800.0,3300,AMD,Extremely Compact(0-32nm),Microscopic(410-1178nm),Some useable space
+1320,CPU,65.0,65.0,143.0,291.0,2333,Intel,Compact(45-90nm),Approaching Subatomic(37-125nm),Some useable space
+1321,CPU,90.0,65.0,220.0,154.0,2600,AMD,Compact(45-90nm),Approaching Subatomic(37-125nm),Considerable useable space
