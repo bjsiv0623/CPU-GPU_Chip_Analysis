@@ -1,0 +1,647 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20231.23.0310.1044                               -->
+<workbook original-version='18.1' source-build='2023.1.0 (20231.23.0310.1044)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='binnedCPUdata' inline='true' name='federated.1oj79bm1hsf27e1dfobb815na3le' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='binnedCPUdata' name='textscan.12u95kw1xgnv8z127o8ul1mvzo61'>
+            <connection class='textscan' directory='C:/Users/bjsiv/Documents/CPU-GPU_Chip_Analysis/Data' filename='binnedCPUdata.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.12u95kw1xgnv8z127o8ul1mvzo61' name='binnedCPUdata.csv' table='[binnedCPUdata#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Type' ordinal='1' />
+            <column datatype='real' name='Process_Size' ordinal='2' />
+            <column datatype='real' name='TDP' ordinal='3' />
+            <column datatype='real' name='Die_Size' ordinal='4' />
+            <column datatype='real' name='Transistors' ordinal='5' />
+            <column datatype='integer' name='Freq' ordinal='6' />
+            <column datatype='string' name='Vendor' ordinal='7' />
+            <column datatype='string' name='ProcessSize' ordinal='8' />
+            <column datatype='string' name='TransistorSize' ordinal='9' />
+            <column datatype='string' name='DieSize' ordinal='10' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.12u95kw1xgnv8z127o8ul1mvzo61' name='binnedCPUdata.csv' table='[binnedCPUdata#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Type' ordinal='1' />
+            <column datatype='real' name='Process_Size' ordinal='2' />
+            <column datatype='real' name='TDP' ordinal='3' />
+            <column datatype='real' name='Die_Size' ordinal='4' />
+            <column datatype='real' name='Transistors' ordinal='5' />
+            <column datatype='integer' name='Freq' ordinal='6' />
+            <column datatype='string' name='Vendor' ordinal='7' />
+            <column datatype='string' name='ProcessSize' ordinal='8' />
+            <column datatype='string' name='TransistorSize' ordinal='9' />
+            <column datatype='string' name='DieSize' ordinal='10' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Type]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>Type</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Process_Size</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Process_Size]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>Process_Size</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>TDP</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[TDP]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>TDP</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Die_Size</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Die_Size]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>Die_Size</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Transistors</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Transistors]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>Transistors</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Freq</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Freq]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>Freq</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Vendor</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Vendor]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>Vendor</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ProcessSize</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[ProcessSize]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>ProcessSize</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>TransistorSize</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[TransistorSize]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>TransistorSize</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>DieSize</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[DieSize]</local-name>
+            <parent-name>[binnedCPUdata.csv]</parent-name>
+            <remote-alias>DieSize</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[:Measure Names]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Die_Size:qk]&quot;' value='Average Die Size' />
+          <alias key='&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Process_Size:qk]&quot;' value='Average Process Size' />
+          <alias key='&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Transistors:qk]&quot;' value='Average Transistor Size' />
+        </aliases>
+      </column>
+      <column caption='Die Size' datatype='string' name='[DieSize]' role='dimension' type='nominal' />
+      <column caption='Die Size1' datatype='real' name='[Die_Size]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Freq]' role='measure' type='quantitative' />
+      <column caption='Process Size' datatype='string' name='[ProcessSize]' role='dimension' type='nominal' />
+      <column caption='Process Size1' datatype='real' name='[Process_Size]' role='measure' type='quantitative' />
+      <column datatype='real' name='[TDP]' role='measure' type='quantitative' />
+      <column caption='Transistor Size' datatype='string' name='[TransistorSize]' role='dimension' type='nominal' />
+      <column datatype='real' name='[Transistors]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Vendor]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='binnedCPUdata.csv' datatype='table' name='[__tableau_internal_object_id__].[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]' role='measure' type='quantitative' />
+      <column-instance column='[__tableau_internal_object_id__].[binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Die_Size]' derivation='Avg' name='[avg:Die_Size:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Process_Size]' derivation='Avg' name='[avg:Process_Size:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Transistors]' derivation='Avg' name='[avg:Transistors:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Vendor]' derivation='None' name='[none:Vendor:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Die_Size]' derivation='Sum' name='[sum:Die_Size:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F1]' derivation='Sum' name='[sum:F1:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Freq]' derivation='Sum' name='[sum:Freq:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Process_Size]' derivation='Sum' name='[sum:Process_Size:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[TDP]' derivation='Sum' name='[sum:TDP:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Transistors]' derivation='Sum' name='[sum:Transistors:qk]' pivot='key' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[__tableau_internal_object_id__].[cnt:binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Process_Size:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[sum:Process_Size:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[sum:Freq:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Transistors:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[sum:Transistors:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[sum:F1:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[sum:TDP:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Die_Size:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[sum:Die_Size:qk]&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Vendor:nk]' type='palette'>
+            <map to='#5792ff'>
+              <bucket>&quot;Intel&quot;</bucket>
+            </map>
+            <map to='#f96e1d'>
+              <bucket>&quot;AMD&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='binnedCPUdata.csv' id='binnedCPUdata.csv_DA37A188CDBA403BA3E305529690A3C8'>
+            <properties context=''>
+              <relation connection='textscan.12u95kw1xgnv8z127o8ul1mvzo61' name='binnedCPUdata.csv' table='[binnedCPUdata#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='Type' ordinal='1' />
+                  <column datatype='real' name='Process_Size' ordinal='2' />
+                  <column datatype='real' name='TDP' ordinal='3' />
+                  <column datatype='real' name='Die_Size' ordinal='4' />
+                  <column datatype='real' name='Transistors' ordinal='5' />
+                  <column datatype='integer' name='Freq' ordinal='6' />
+                  <column datatype='string' name='Vendor' ordinal='7' />
+                  <column datatype='string' name='ProcessSize' ordinal='8' />
+                  <column datatype='string' name='TransistorSize' ordinal='9' />
+                  <column datatype='string' name='DieSize' ordinal='10' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#5792ff'>Intel</run>
+            <run> dominates the CPU industry with light leads in Die and Process sizes, and a </run>
+            <run bold='true'>massive lead</run>
+            <run>Æ </run>
+            <run bold='true'>in Transistor size</run>
+            <run> against their main competitor </run>
+            <run bold='true' fontcolor='#f96e1d'>AMD</run>
+            <run>.</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='binnedCPUdata' name='federated.1oj79bm1hsf27e1dfobb815na3le' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1oj79bm1hsf27e1dfobb815na3le'>
+            <column caption='Die Size1' datatype='real' name='[Die_Size]' role='measure' type='quantitative' />
+            <column caption='Process Size1' datatype='real' name='[Process_Size]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Transistors]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Vendor]' role='dimension' type='nominal' />
+            <column-instance column='[Die_Size]' derivation='Avg' name='[avg:Die_Size:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Process_Size]' derivation='Avg' name='[avg:Process_Size:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Transistors]' derivation='Avg' name='[avg:Transistors:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Vendor]' derivation='None' name='[none:Vendor:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1oj79bm1hsf27e1dfobb815na3le].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Die_Size:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Process_Size:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Transistors:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.1oj79bm1hsf27e1dfobb815na3le].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Transistors:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Die_Size:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Process_Size:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='quantitative' column='[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Die_Size:qk]' included-values='in-range' />
+          <slices>
+            <column>[federated.1oj79bm1hsf27e1dfobb815na3le].[:Measure Names]</column>
+            <column>[federated.1oj79bm1hsf27e1dfobb815na3le].[avg:Die_Size:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1oj79bm1hsf27e1dfobb815na3le].[Multiple Values]' scope='cols' value='Nanometers (Smaller is Better)' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.1oj79bm1hsf27e1dfobb815na3le].[:Measure Names]' value='148' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1oj79bm1hsf27e1dfobb815na3le].[none:Vendor:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='617' />
+                <format attr='maxwidth' value='617' />
+                <format attr='minheight' value='60' />
+                <format attr='maxheight' value='60' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1oj79bm1hsf27e1dfobb815na3le].[:Measure Names]</rows>
+        <cols>[federated.1oj79bm1hsf27e1dfobb815na3le].[Multiple Values]</cols>
+      </table>
+      <simple-id uuid='{44B0FA87-EE50-4714-A341-16ED3CEDACD1}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='112'>
+            <card pane-specification-id='0' param='[federated.1oj79bm1hsf27e1dfobb815na3le].[none:Vendor:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1oj79bm1hsf27e1dfobb815na3le].[none:Vendor:nk]</field>
+          </color-one-way>
+        </highlight>
+        <default-map-tool-selection tool='2' />
+      </viewpoint>
+      <simple-id uuid='{6D8FCD58-E435-48E7-8862-F0268B1D1360}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='179' name='Sheet 1' width='288'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
