@@ -13,3 +13,5 @@ should be run.
 4. removeOutliers.ipynb
 5. binCPUs.ipynb
 6. binGPUs.ipynb
+
+The visualizations for the 'Deliverable' can be found in the visualization folder within this repository.
