@@ -45,7 +45,9 @@ Other columns containing non-relevant information for the quantitative analysis 
 The only qualitative information in the table will be hardware type and manufacturer.
 
 #----------------------------------------------------#
+
         RESOURCES AND INFORMATION ON CHIP SPECS
+        
 #----------------------------------------------------#
 
 Defenitions for all aformentioned quantitative analysis attribues are listed below.
